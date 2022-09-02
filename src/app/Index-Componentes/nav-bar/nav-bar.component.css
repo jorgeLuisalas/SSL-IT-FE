@@ -1,0 +1,28 @@
+.nav-link{
+    color:aliceblue;
+    
+}
+.navbar-brand{
+    color:aliceblue;
+    padding-left: 30px;
+    font-size: 35px;
+}
+.btn{
+    color:rgb(147, 189, 50);
+ 
+}
+.form-control{
+    padding-left: 40px;
+}
+.nav-item{
+    padding-left: 38px;
+}
+
+.nav-link{
+  background-color: dark;
+  transition: background-color .7s;
+}
+
+.nav-link:hover {
+  background-color: rgb(50, 123, 182);
+}
